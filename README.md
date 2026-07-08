@@ -69,12 +69,11 @@ My engineering focus is simple:
 ![Zapier](https://img.shields.io/static/v1?label=\&message=Zapier\&color=FF4A00\&logo=zapier\&logoColor=FFFFFF)
 
 ### Backend
-
-![Laravel](https://img.shields.io/static/v1?label=\&message=Laravel\&color=FF2D20\&logo=laravel\&logoColor=FFFFFF)
-![PHP](https://img.shields.io/static/v1?label=\&message=PHP\&color=777BB4\&logo=php\&logoColor=FFFFFF)
 ![Node.js](https://img.shields.io/static/v1?label=\&message=Node.js\&color=339933\&logo=nodedotjs\&logoColor=FFFFFF)
 ![Python](https://img.shields.io/static/v1?label=\&message=Python\&color=3776AB\&logo=python\&logoColor=FFFFFF)
 ![FastAPI](https://img.shields.io/static/v1?label=\&message=FastAPI\&color=009688\&logo=fastapi\&logoColor=FFFFFF)
+![Laravel](https://img.shields.io/static/v1?label=\&message=Laravel\&color=FF2D20\&logo=laravel\&logoColor=FFFFFF)
+![PHP](https://img.shields.io/static/v1?label=\&message=PHP\&color=777BB4\&logo=php\&logoColor=FFFFFF)
 ![REST API](https://img.shields.io/static/v1?label=\&message=REST%20API\&color=0052CC\&logo=fastapi\&logoColor=FFFFFF)
 
 ### Frontend
@@ -151,29 +150,6 @@ My engineering focus is simple:
 * Data extraction and enrichment
 * Workflow automation between CRM, website, email and messengers
 * AI agents connected to APIs and internal systems
-
----
-
-## 📌 Engineering Philosophy
-
-> Good engineering is not only about writing code.
-> It is about building reliable systems that solve real problems in production.
-
-I prefer clean architecture, practical solutions, strong integrations and automation that reduces operational friction.
-
-For me, the best system is:
-
-* simple enough to maintain
-* flexible enough to scale
-* reliable enough for production
-* useful enough to create real business value
-
----
-## 📈 GitHub Stats
-
-![Anton's GitHub Stats](https://github-readme-stats.vercel.app/api?username=26exp&show_icons=true&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=26exp&layout=compact&theme=dark&hide_border=true)
 
 ---
 
