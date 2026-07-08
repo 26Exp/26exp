@@ -21,73 +21,6 @@ My engineering focus is simple:
 
 ---
 
-## 🧭 Core Positioning
-
-- AI Solutions Architecture
-- Full-Stack Web Development
-- Backend Engineering
-- API & Third-Party Integrations
-- CRM Automation
-- RAG Systems & Vector Search
-- Custom AI Assistants
-- Workflow Automation
-- SaaS & Multi-Tenant Platforms
-- IT Consulting & Technical Planning
-- Business Process Digitalization
-
----
-
-## 🏗️ Solution Architecture
-
-I work on the full technical path from business problem to production system:
-
-| Area | What I Do |
-| - | - |
-| **Technical Discovery** | Analyze workflows, business logic, data flows and operational bottlenecks |
-| **System Design** | Design architecture, modules, APIs, database structure and integrations |
-| **AI Architecture** | Plan AI assistants, RAG pipelines, embeddings, prompts, tools and evaluation flows |
-| **Integration Mapping** | Connect CRMs, websites, payment systems, messengers, APIs and internal tools |
-| **Backend Architecture** | Build scalable APIs, service layers, queues, jobs, permissions and admin systems |
-| **Automation Design** | Automate repetitive business workflows across multiple platforms |
-| **Technical Consulting** | Help choose the right stack, architecture and implementation roadmap |
-| **Production Delivery** | Deploy, monitor, maintain and improve real-world systems |
-
----
-
-## 🤖 AI Engineering Focus
-
-- AI-powered business automation
-- Custom AI agents and assistants
-- RAG systems and vector search
-- Embeddings and semantic search
-- AI chatbots connected to real business data
-- Prompt engineering and tool calling
-- Fine-tuning and custom model workflows
-- Data preparation for AI systems
-- Document processing automation
-- AI-powered CRM workflows
-- Automated reporting and data extraction
-- AI integrations into SaaS, websites, CRMs and internal tools
-
----
-
-## 🧠 What I Build
-
-| Area | Examples |
-| - | - |
-| **AI Assistants** | Internal copilots, support agents, sales assistants, knowledge base bots |
-| **RAG Systems** | AI search over documents, company data and internal knowledge bases |
-| **AI Automation** | Lead processing, onboarding, task routing, notifications and reporting |
-| **Custom AI Workflows** | Fine-tuning flows, structured datasets, embeddings and domain-specific assistants |
-| **Full-Stack Platforms** | SaaS products, dashboards, admin panels, portals and marketplaces |
-| **Backend Systems** | REST APIs, service layers, queues, jobs, permissions and multi-role platforms |
-| **CRM Automation** | Pipelines, lead capture, task automation, notifications and reporting |
-| **Integrations** | CRM, payments, delivery APIs, Google services, Telegram, WhatsApp and email |
-| **Internal Tools** | Operational dashboards, admin panels and workflow management systems |
-| **Business Systems** | Custom platforms that replace manual work and disconnected tools |
-
----
-
 ## 🛠️ Tech Stack
 
 ### AI, Automation & Machine Learning
@@ -160,103 +93,70 @@ I work on the full technical path from business problem to production system:
 
 ---
 
-## ⚙️ Engineering Areas
+## 🧭 Core Positioning
 
-- Solution architecture
-- Full-stack application development
-- AI automation architecture
-- LLM integrations
-- Custom AI assistants
-- RAG pipelines and vector search
-- Fine-tuning and domain-specific datasets
-- Backend API architecture
-- Laravel and PHP backend systems
-- Python automation services
-- Node.js API services
-- CRM automation and integrations
-- Payment systems
-- Delivery and logistics API integrations
-- Notification systems
-- SaaS and multi-tenant logic
-- Admin panels and operational dashboards
-- CI/CD and deployment workflows
-- Technical consulting and architecture planning
+- AI Solutions Architecture
+- Full-Stack Web Development
+- Backend Engineering
+- API & Third-Party Integrations
+- CRM Automation
+- RAG Systems & Vector Search
+- Custom AI Assistants
+- Workflow Automation
+- SaaS & Multi-Tenant Platforms
+- IT Consulting & Technical Planning
+- Business Process Digitalization
 
 ---
 
-## 🧩 AI & Automation Use Cases
+## 🏗️ Solution Architecture
 
-- AI lead qualification
-- AI customer support assistants
-- AI sales assistants
-- Internal company knowledge assistants
+I work on the full technical path from business problem to production system:
+
+| Area | What I Do |
+| - | - |
+| **Technical Discovery** | Analyze workflows, business logic, data flows and operational bottlenecks |
+| **System Design** | Design architecture, modules, APIs, database structure and integrations |
+| **AI Architecture** | Plan AI assistants, RAG pipelines, embeddings, prompts, tools and evaluation flows |
+| **Integration Mapping** | Connect CRMs, websites, payment systems, messengers, APIs and internal tools |
+| **Backend Architecture** | Build scalable APIs, service layers, queues, jobs, permissions and admin systems |
+| **Automation Design** | Automate repetitive business workflows across multiple platforms |
+| **Technical Consulting** | Help choose the right stack, architecture and implementation roadmap |
+| **Production Delivery** | Deploy, monitor, maintain and improve real-world systems |
+
+---
+
+## 🤖 AI Engineering Focus
+
+- AI-powered business automation
+- Custom AI agents and assistants
+- RAG systems and vector search
+- Embeddings and semantic search
+- AI chatbots connected to real business data
+- Prompt engineering and tool calling
+- Fine-tuning and custom model workflows
+- Data preparation for AI systems
 - Document processing automation
 - AI-powered CRM workflows
-- Automated reporting
-- AI search over business data
-- Data extraction and enrichment
-- Workflow automation between CRM, website, email and messengers
-- AI agents connected to APIs and internal systems
-- Business process automation with AI and integrations
+- Automated reporting and data extraction
+- AI integrations into SaaS, websites, CRMs and internal tools
 
 ---
 
-## 💼 Product & System Experience
+## 🧠 What I Build
 
-### XCORE WEB Solutions
-
-At XCORE, I work on custom software, AI automation, CRM integrations, web platforms, mobile applications, SaaS systems and business process automation.
-
-Engineering work includes:
-
-- AI integrations into real business workflows
-- CRM and third-party API integrations
-- Custom backend platforms
-- Full-stack web applications
-- Dashboards and admin panels
-- E-commerce and marketplace logic
-- Automation workflows
-- Cloud deployment and DevOps pipelines
-
-### Doctorchat.md
-
-Doctorchat.md is a HealthTech telemedicine platform with multiple user roles and complex business workflows.
-
-The platform includes:
-
-- Patient and doctor accounts
-- Corporate client modules
-- Chat and video consultations
-- Payment and wallet logic
-- Role-based access
-- Notifications
-- Admin panels
-- External service integrations
-- Healthcare-specific workflows
-
----
-
-## 🧱 How I Approach Engineering
-
-I prefer systems that are:
-
-- simple enough to maintain
-- flexible enough to scale
-- reliable enough for production
-- clear enough for teams to work with
-- useful enough to create real business value
-
-> Good engineering is not only about writing code.  
-> It is about designing reliable systems that solve real problems.
-
----
-
-## 🤝 Contact
-
-- Website: [xcore.md](https://xcore.md)
-- GitHub: [github.com/26Exp](https://github.com/26Exp)
-- Location: Chișinău, Moldova
-- Focus: AI solutions architecture, full-stack development, backend engineering, integrations and IT consulting
+| Area | Examples |
+| - | - |
+| **AI Assistants** | Internal copilots, support agents, sales assistants, knowledge base bots |
+| **RAG Systems** | AI search over documents, company data and internal knowledge bases |
+| **AI Automation** | Lead processing, onboarding, task routing, notifications and reporting |
+| **Custom AI Workflows** | Fine-tuning flows, structured datasets, embeddings and domain-specific assistants |
+| **Full-Stack Platforms** | SaaS products, dashboards, admin panels, portals and marketplaces |
+| **Backend Systems** | REST APIs, service layers, queues, jobs, permissions and multi-role platforms |
+| **CRM Automation** | Pipelines, lead capture, task automation, notifications and reporting |
+| **Integrations** | CRM, payments, delivery APIs, Google services, Telegram, WhatsApp and email |
+| **Internal Tools** | Operational dashboards, admin panels and workflow management systems |
+| **Business Systems** | Custom platforms that replace manual work and disconnected tools |
 
 ---
 
