@@ -154,41 +154,6 @@ My engineering focus is simple:
 
 ---
 
-## 🏗️ Product Experience
-
-### XCORE WEB Solutions
-
-At XCORE, I work on custom software, AI automation, CRM integrations, web platforms, mobile applications, SaaS systems and business process automation.
-
-The engineering work includes:
-
-* AI integrations into real business workflows
-* CRM and API integrations
-* Custom backend platforms
-* Dashboards and admin panels
-* Web and mobile products
-* E-commerce and marketplace logic
-* Automation workflows
-* Cloud deployment and DevOps pipelines
-
-### Doctorchat.md
-
-Doctorchat.md is a HealthTech telemedicine platform with multiple user roles and complex business workflows.
-
-The platform includes:
-
-* Patient and doctor accounts
-* Corporate client modules
-* Chat and video consultations
-* Payment and wallet logic
-* Role-based access
-* Notifications
-* Admin panels
-* External service integrations
-* Healthcare-specific workflows
-
----
-
 ## 📌 Engineering Philosophy
 
 > Good engineering is not only about writing code.
@@ -204,12 +169,11 @@ For me, the best system is:
 * useful enough to create real business value
 
 ---
-
 ## 📈 GitHub Stats
 
-![Anton's GitHub Stats](https://github-readme-stats.vercel.app/api?username=26Exp\&show_icons=true\&theme=dark\&hide_border=true)
+![Anton's GitHub Stats](https://github-readme-stats.vercel.app/api?username=26exp&show_icons=true&theme=dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=26Exp\&layout=compact\&theme=dark\&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=26exp&layout=compact&theme=dark&hide_border=true)
 
 ---
 
